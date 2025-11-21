@@ -21,6 +21,7 @@ const About = () => {
                     <li>🤝 Teamwork and collaboration</li>
                     <li>🌱 Continuous improvement</li>
                     <li>📢 Transparency and communication</li>
+                    <li>📢 I love to code with mosh hamedani</li>
                 </ul>
             </div>
         </div>
