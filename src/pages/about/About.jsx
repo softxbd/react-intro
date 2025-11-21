@@ -4,7 +4,7 @@ import React from 'react';
 const About = () => {
     return (
         <div className="container mx-auto px-4 py-10">
-            <h1 className="text-3xl font-bold mb-6 text-blue-700">About Us</h1>
+            <h1 className="text-3xl font-bold mb-6 text-blue-700">About Us by Dokploy</h1>
 
             <p className="text-gray-700 mb-4">
                 Welcome to <span className="font-semibold">MyApp</span>! We are a passionate team dedicated to building amazing web experiences using the latest technologies.
